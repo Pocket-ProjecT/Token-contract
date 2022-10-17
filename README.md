@@ -1,4 +1,4 @@
 # Token-contract
 Klaytn KIP-7 Token
 
-Contract address : 0x0cdab14e5c64bfbdaa37e7e20eea0ecdc10d0da4
+Contract address : 0x60b6cc2b8cf4687dafa08c2078f7677eab23df7e
